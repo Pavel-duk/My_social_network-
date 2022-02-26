@@ -1,0 +1,16 @@
+.newComment {
+    display: block;
+
+}
+
+p {
+    padding-left: 20px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+textarea {
+    margin-left: 10px;
+}
