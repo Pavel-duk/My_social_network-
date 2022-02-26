@@ -1,0 +1,9 @@
+.nav {
+    grid-area: n;
+    background-color: #5f6179;
+    padding: 10px 0 0 15px;
+}
+
+.link {
+    color: #FFFFFF;
+}

@@ -1,0 +1,26 @@
+.header {
+    grid-area: h;
+    background-color: rgb(223, 233, 139);
+    
+}
+.header img {
+    width: 30px;
+    height: 30px;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left: 20px;
+
+    
+}
+
+.headerElements {
+    display: flex;
+    height: 100%;
+    
+}
+
+h1 {
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left: 20px;
+}
