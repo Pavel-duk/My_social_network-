@@ -2,13 +2,21 @@
     height: 100px;
     width: 100px;
     border-radius: 60px;
+    margin-left: 20px;
 }
 
 .post {
     display: flex;
+    border-image-outset: 10px;
+    background-color: #A9A9A9;
 }
 
 .text { 
     margin: auto 0 auto 20px;
 
 } 
+
+.posts {
+    padding-top: 20px;
+    
+}
